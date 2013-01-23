@@ -12,6 +12,8 @@ int main(int argc, const char * argv[])
 {
 
     // insert code here...
+	//i think we need some variables
+	int a, b, c, d;
     cout << "Hello, World!\n";
     return 0;
 }
