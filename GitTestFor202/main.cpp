@@ -9,7 +9,14 @@
 #include <iostream>
 using namespace std;
 
-
+//
+//	we need an overloaded version of this function
+//
+//
+void function(double a, double b)
+{
+	cout << a+b << endl;
+}
 //
 //This is a stupid fucntion which adds two numbers
 //it is stupid and it's just for a demo
